@@ -1,0 +1,28 @@
+.hamburgerMenu {
+  /* Styling for Hamburger Menu */
+}
+.gridView {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+}
+.gridItem {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+}
+.tileView {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tileItem {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.detailView {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
