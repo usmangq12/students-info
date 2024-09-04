@@ -49,5 +49,7 @@ Prerequisites
    ```
 
 ## Application deployed link
+https://students-info-five.vercel.app
 
 ## Application introduction loom video link
+https://www.loom.com/share/c0e11eae54814027baadb2378296abd5?sid=c0a6554a-400f-4591-bdb3-123b48ef26be
